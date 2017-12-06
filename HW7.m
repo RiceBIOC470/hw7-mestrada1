@@ -1,5 +1,16 @@
 %HW7
 
+%GB comments
+1a 100
+1b 100
+1c 90 could use a line of script to inmate your function and store the ouput
+1d 70 Could discretize ‘a’ over shorter intervals (a = 1:0.1:54; ) to reveal the behavior of the system. When you do this, you see there is one stable point from a=0 to a=3. Then the system bifurcates into 2 stable points from a=3 to ~3.5. From there the number of stable points grows quickly. 
+2a 100
+2b 100
+2c 95 axis labels on plot missing. 
+Overall: 94
+
+
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
 % individual has equal likelihood to divide, which yields a differential
